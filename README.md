@@ -2,6 +2,8 @@
 
 `SizedBox` is a Flutter layout widget that forces its child to have a specific width, height, or both — giving you precise dimensional control over any widget in your UI.
 
+[Demo Slide](https://www.canva.com/design/DAHAWuePAAM/FWDcyKemG_to9TWrZulw7w/view?utm_content=DAHAWuePAAM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76e2ed4f8a)
+
 ## Run Instructions
 
 ```bash
